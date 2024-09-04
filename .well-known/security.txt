@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: https://www.renfei.net/page/about
+Contact: mailto:i@renfei.net
+Encryption: https://cdn.renfei.net/public/gpg/07232FA5.asc
+Preferred-Languages: zh,en
+Canonical: https://www.renfei.net/.well-known/security.txt
+Acknowledgments: https://www.renfei.net/page/about#acknowledgments
+Expires: 2030-12-31T12:59:59.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEYm0JOaKI74aSn2H5lkjcmgcjL6UFAmQisRIACgkQlkjcmgcj
+L6XIAg/+JqWL9xulaUtWrjHdeeSL1kD1bhbqqLdVWYA+x3Qv1N5G7Q9b/Bq74ENt
+UwwKA4iGEQzfxALPXRetyfChvAhcvyZl6ii5/wu2uHAGl47yIjBbM9di7ek0jiI1
+xxEv9cSaWbR1GZM/PjRTb6F7eD3N2M6HhAmXZTzJwemi1PRnnevmeNuAO6Il4XYt
+8FDjrXIpKFZSDoXsKZQA2Da0C7b/+e8IXA0HVzp5DUrn9F2SaV5M3HT6qcFvjmyc
+bAh0pr0uT1xb5A/q1UYz0v9Y0S/r1/CObmvAVshW/zvyHl6Q2KmcR6es4boUOq8A
+CFIdQ1iWhLnI7NQfrbhelBmzvaL/YaUgPLGk+5D2h1pWFRM8FeY63+X1eBAwoEzs
+xvWH1v91AnejdHBoMN9SwfG4aoOio2W4c6gvqIlsYTsfprma/6b6X16hKDai/T22
+fNKKkHSs1T7Cgstde2U3HH7soyxI25UPvwNCl0hvCFPRKi1t8Axad3rX7SSAkLk0
+OigNdx3jmJOCXoWEZXWi9EpRPsfMwKeBmyS05hxwoGcUIBZOOiIIZLWsghAdcXnb
+mDEULRrseXFAqCzGt3ys77Ns74RLOxNrup56PTNn03rO63URp+CIRoVEHjP4m0vX
+/nnmQZyLrIQoqDoKXzeJFKUpanrNDb743rAPlCLNBbfqav9MJYc=
+=tQL8
+-----END PGP SIGNATURE-----

@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/renfei
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://renfei.net
+  * I am renfei (https://keybase.io/renfei) on keybase.
+  * I have a public key with fingerprint 626D 0939 A288 EF86 929F  61F9 9648 DC9A 0723 2FA5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010141535fc3c51179682dfb6885791491107c1a9be5a8064f22617fd85a9cc90fed0a",
+      "fingerprint": "626d0939a288ef86929f61f99648dc9a07232fa5",
+      "host": "keybase.io",
+      "key_id": "9648dc9a07232fa5",
+      "kid": "010141535fc3c51179682dfb6885791491107c1a9be5a8064f22617fd85a9cc90fed0a",
+      "uid": "bd73320d408665a0e9e5ade3d61da419",
+      "username": "renfei"
+    },
+    "service": {
+      "hostname": "renfei.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1679992124,
+  "expire_in": 157680000,
+  "prev": "ce45fc965bead1d5bae84b355180348f4d344c4d7b3f94561608658daa281180",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1QVFUYx5cVeQsIDZwdBwa6OomIdu/e17MEooiioBlJAtZs995zLlxcd5fd
+CwikBSGDO2jiW6iVC0hIUiqMMwIzQU1mucUmTBgvDWFTvJgxpEY4o3SXyQ/N9LHz
+5cx5zv//O8/znOdI0AJNgNfJlOHTvsueb/RyTQgaiDUmlWKCBRZjhlJsN5rfkAki
+u2LcLUPMgOEETlAETdKSSIo0QbCA4fRQEhiOo1lAUIAgcFYkeCAgmudwhpL0eoZg
+JcjRPBBFgEsI4jwWi0myOQfZrDbZrKhYRs9AHJCA13MckjgG6IHEEBIADMVBEfA4
+qyf1Ek+rxlyL3eNQkxN4O1ojW9SYejDOp/cf+v8574J5nABZktTjkMI5hqF5HAHV
+BhEJGQLyFAE8Qjuymfk9SFXbkFlCMrYvFlNjhbKIPG311PGv+zVmpKg+q82iWESL
+SY3nKorVbvD4lGKrR1iEBOM/CKMgm6HaQ9VRiGx22WLGDISqFBXZwyQYFgCgJ/RU
+LIb2WmUbMsoeBc0yHK4uzzuoUEWKiFJ7AhhaQBk8JCAt8IijBJKmCQ4nKU6iIElR
+IgVZgZQARTMEo9ZMc5BX/4pQNZinqnyzRYWrVIXPUaF2OcfMKwU2hO0LOKglvTVe
+AZqIJc96C3v8QX3VVOXRs/zsk8FbqPVMnSbAP+RJpGzy6bnMz8dTtFrlflY8XtH7
+7tudj1+3jGweClz4qGRm27XLjyInxKkvTdmlVYtqgwptlatuaXojDXJ/M53SmTBQ
+ujp5cPTUL9eGao8UDSe4v/E5hzXtNzvu5uqORsWumH25rjr9PaejY3DTw/U2d/jy
+wo37uyY65DlXWp9u7SJN2N7asU734u13ip8xPFiZHurXzYY1k+G5q76/f+Aq3hFq
+AIlRI2m9mxx5l4airTd2ET80/KFzt7qEwLvVO14UnFP44QtNx1s/iK2uCGbgivxj
+2b+bzmfcltoTLzbXpY4mb3T063Taenftbw3JDaOfhJx+rrpnuI24tNZPiY8/tLgg
+I1yMa0z/wlmcZ1qy3OdK8KtnaupYS2qe7gR7Z7LGsDSodv20b3dQyYdlc9qdYxdO
+jn07k+BwnZoed2qzRra0tDx8w8fo9eNXW271tWBZ1Ndno/I/uprVM/Daz31+Ae1i
+f6tusET311TMT/G+YQeL/Ud+deXXbN4xRe7sPnd43Ln6+JvOab/R22mupOQCdvJG
+9rpyd1lFVdyGe43vmz/ugk0Dn53oetz7wH+XtswRuuBKdIbwVLMPdqAHq/yuPDh9
+5XRv9Cvb2j8Nnw2JTATe1+1hUlJgd9Hlde8M3BxwZrbdtMC34iZmrtcfW/ZnZgTf
+XB7/Qgb+0tKtuvKLMU3b7w2nHjo/1xYTYUpt+Rs=
+=I9lb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/renfei
+
+==================================================================
