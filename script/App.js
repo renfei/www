@@ -21,7 +21,8 @@ let Main = () => {
         <p className="lead" style={{fontSize: '12px'}}>致 MJJ
             们：本站不参与任何压测活动，请勿刷量、CC、DDoS；如果你也是技术爱好者请友好交流。</p>
         <p className="lead">
-            <a href="mailto:i@renfei.net" className="btn btn-lg btn-light fw-bold border-white bg-white">邮件：i@renfei.net</a>
+            <a href="mailto:i@renfei.net"
+               className="btn btn-lg btn-light fw-bold border-white bg-white">邮件：i@renfei.net</a>
         </p>
     </main>
         ;
@@ -45,5 +46,21 @@ let App = () => {
         <Footer/>
     </div>;
 }
+
+let SayHi = () => {
+    let txt = `%c巴山楚水凄凉地，踏码的沙壁ICP
+既然阁下能进入此处，我甚感欣慰
+为了ICP备案合规，我只能自废首页
+因为个人的备案几乎什么也不让做
+天天让我整改，不胜其扰出此下策
+我来介绍一下真正的网站服务吧：
+https://blog.renfei.net
+https://maven.renfei.net
+https://ip.renfei.net
+`;
+    console.log(txt, 'background: #222; color: #bada55');
+}
+
+SayHi();
 
 ReactDOM.createRoot(document.getElementById('app')).render(<App tab="home"/>);
